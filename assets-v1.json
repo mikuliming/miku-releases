@@ -1,0 +1,4 @@
+{
+  "payload": "{\"abi\":1,\"fileName\":\"miku-images-v1-3da98cabbb0ae475.pak\",\"kind\":\"miku-images\",\"revision\":1,\"schemaVersion\":1,\"sha256\":\"3da98cabbb0ae475b2d0bfbd051b7ecf80dcc5f3bc1e90e2e468e0897f49231c\",\"size\":14456639,\"url\":\"https://github.com/mikuliming/miku-releases/releases/download/images-v1/miku-images-v1-3da98cabbb0ae475.pak\",\"version\":1}",
+  "signature": "6602bd839f29c0347f692f7a91ebb452f8c9b718bca87a03801e150ef6e0f9bf8db25e6d94f81c93b494dd72e8837e467591e60377b61d0727ab976bfefa1700"
+}
