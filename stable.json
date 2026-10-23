@@ -1,0 +1,4 @@
+{
+  "payload": "{\"announcement\":{\"body\":{\"en\":\"Required updates, minimum versions, optional updates, temporary access and announcements. Configuration is preserved; restart manually after download.\",\"zh\":\"支持强制更新、最低版本、普通更新提醒、临时使用和更新公告。保留配置，下载后手动重启。\"},\"id\":\"r106\",\"title\":{\"en\":\"Updater now available\",\"zh\":\"更新功能已接入\"}},\"channel\":\"stable\",\"deadlineUnix\":0,\"forceBelow\":0,\"latest\":106,\"minSupported\":1,\"package\":{\"fileName\":\"miku-20261024-044909.sh\",\"sha256\":\"049d594bf40eddbde90479ab0a57ec23d1a2e3b0ce92f9ba1e061cd0df1088be\",\"size\":21468154,\"url\":\"https://github.com/mikuliming/miku-releases/releases/download/r106/miku-20261024-044909.sh\"},\"policyRevision\":1,\"requiredAfterDeadline\":0,\"schemaVersion\":1,\"versionName\":\"r106\"}",
+  "signature": "0a2ffb7fb63fba28c4abc612e14b3d5818f359709de511748c0d771dc518ddafab056c5db8a85513fcabef923d22c65f4cee7ed323d56e71ca7651116c27a80b"
+}
