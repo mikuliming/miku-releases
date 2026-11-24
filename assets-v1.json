@@ -1,4 +1,4 @@
 {
-  "payload": "{\"abi\":1,\"encryption\":\"AES-256-GCM\",\"fileName\":\"miku-images-v5-51e9b9c78dd2cb46.pak\",\"format\":2,\"keyId\":\"images-20261024\",\"kind\":\"miku-images\",\"revision\":5,\"schemaVersion\":1,\"sha256\":\"51e9b9c78dd2cb4605e544680f306c519c92a82c1be033494422a0a191049045\",\"size\":22400668,\"url\":\"https://github.com/mikuliming/miku-releases/releases/download/images-v5/miku-images-v5-51e9b9c78dd2cb46.pak\",\"version\":5}",
-  "signature": "a1cd078fdceb83dd878ed3c347a791fc6eaf7a4660029d9d6697bd3512802954346809f4f8a053d001bf80b181db8b3645b10e1007a521d50d1fd1052b011c0d"
+  "payload": "{\"abi\":1,\"encryption\":\"AES-256-GCM\",\"fileName\":\"miku-images-v6-2fc88628bb2fae99.pak\",\"format\":2,\"keyId\":\"images-20261024\",\"kind\":\"miku-images\",\"revision\":6,\"schemaVersion\":1,\"sha256\":\"2fc88628bb2fae9934924296362d1391787ff390ea4b6cd6f855429fe9201d32\",\"size\":22414095,\"url\":\"https://github.com/mikuliming/miku-releases/releases/download/images-v6/miku-images-v6-2fc88628bb2fae99.pak\",\"version\":6}",
+  "signature": "d58f3e8badab924b78674802b353443d6b1bb22b7db78ac1363b4d5c33b91d80074a000d723424eccd281a4c9a00821c068c7a29f71965a3c9c9a335ae32de06"
 }
